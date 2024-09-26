@@ -3,8 +3,6 @@
 
     font-weight: 400;
     margin: 10px auto;
-
-
 }
 
 
@@ -163,10 +161,7 @@
 
     display: flex;
     margin-top: 5%;
-
-    justify-content: center;
-
-    width: 1400px;
+    width: 1380px;
 
 }
 
@@ -211,3 +206,77 @@
 }
 
 /* <!-- Popular Tours section end--> */
+
+/* Choose Your Destination section start  */
+.Destination-content {
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+.Destination-title-p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #131318;
+
+}
+
+.img-gllary-content {
+    text-align: center;
+}
+
+
+.img {
+    width: 100%;
+    height: 100%;
+}
+
+.img-six {
+    width: 92.75%;
+    height: 92.75%;
+}
+
+.row {
+    display: flex;
+    height: 400px;
+    gap: 10px;
+}
+
+
+
+.img-1 {
+    margin-left: 11%;
+    margin-top: 1%;
+}
+
+.img-2 {
+    margin-right: 11%;
+    margin-top: 1%;
+}
+
+.img-3 {
+    margin-left: 10%;
+    margin-top: -0.50%;
+}
+
+.img-4 {
+    margin-left: -12.75%;
+    margin-top: -0.50%;
+}
+
+.img-5 {
+    margin-left: -12.50%;
+    margin-top: -0.50%;
+}
+
+.img-6 {
+    margin-left: 11%;
+    margin-top: -2.20%;
+}
+
+.img-7 {
+    margin-right: 11%;
+    margin-top: -2.20%;
+}
+
+/* Choose Your Destination section end  */
