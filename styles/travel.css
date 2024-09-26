@@ -1,0 +1,92 @@
+* {
+    font-family: "Mulish", sans-serif;
+
+    font-weight: 400;
+    margin: 10px auto;
+
+}
+
+.orange-prmary {
+    color: #FF5400;
+}
+
+/* nav section start*/
+.nav-container,
+.travel-name-text {
+    display: flex;
+    justify-content: space-between;
+}
+
+.travel-name-text {
+    gap: 20px;
+}
+
+.travel-header-title,
+.travel {
+    font-weight: 800;
+    font-size: 36px;
+}
+
+.ul-container {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* nav section end*/
+/* Explore Your Travel section start */
+.explore-container {
+    background-image: linear-gradient(to bottom, rgba(24, 22, 24, 0.89), rgba(136, 136, 136, 0.103)), url('../Images/Group\ 13\ \(1\)\ \(1\).png');
+    background-repeat: no-repeat;
+    width: 1170px;
+    height: 500px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.explore-title {
+    text-align: center;
+    padding: 10%;
+}
+
+.Explore-text {
+    font-size: 64px;
+    color: #fff;
+    font-weight: 800;
+}
+
+.Explore-text-p {
+    font-size: 14px;
+    color: #fff;
+    font-weight: 400;
+    margin-top: 2%;
+}
+
+.btn-content {
+    background-color: #fff;
+    opacity: 0.3;
+    width: 800px;
+    height: 84px;
+    border-radius: 8px;
+    margin-top: 5%;
+
+}
+
+.btn-primary {
+
+    border-radius: 5px;
+    border: none;
+    padding: 10px px;
+    background-color: #fff;
+
+    color: #131318;
+    font-size: 15px;
+    font-weight: 400;
+    display: inline-flex;
+    gap: 25px;
+
+}
+
+/* Explore Your Travel section end */
