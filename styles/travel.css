@@ -215,7 +215,7 @@
 .Destination-title-p {
     font-size: 16px;
     font-weight: 400;
-    color: #131318;
+    color: #5A5A5D;
 
 }
 
@@ -421,3 +421,51 @@
 }
 
 /* Perfect Place end */
+/* newslater section start  */
+.newslatter-content {
+    display: flex;
+    margin: 50px 160px;
+}
+
+.newslatter-title {
+    border: 1px solid #ea4e00;
+    border-radius: 15px;
+    padding: 25px 30px 15px 30px;
+
+}
+
+.newslatter-he {
+    width: 400px;
+    color: #13131819;
+}
+
+.in-style {
+    width: 393px;
+    height: 52px;
+    border-radius: 8px;
+    border: none;
+    background-color: #1313180e;
+    padding-left: 15px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.btn-subscribe {
+    border-radius: 8px;
+    border: none;
+    width: 393px;
+    height: 52px;
+    background-color: #ea4e00;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.bg-img-4 {
+    background-image: url("../Images/Rectangle\ 8 (1).png");
+    background-repeat: no-repeat;
+    width: 672px;
+    height: 422px;
+}
+
+/* newslater section end  */
