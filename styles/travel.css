@@ -210,7 +210,7 @@
 /* Choose Your Destination section start  */
 .Destination-content {
     text-align: center;
-    margin-top: 4%;
+    margin-top: 5%;
     margin-bottom: 2%;
 }
 
@@ -243,6 +243,20 @@
 }
 
 
+.img-text-primary {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 28px;
+    font-weight: 800;
+}
 
 .img-1 {
     margin-left: 7.06%;
@@ -282,20 +296,9 @@
 }
 
 
-.img-text-primary {
-    position: relative;
-    text-align: center;
-    color: white;
-}
 
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 28px;
-    font-weight: 800;
-}
+
+
 
 /* Choose Your Destination section end  */
 
