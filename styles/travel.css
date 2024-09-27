@@ -20,7 +20,7 @@
 
 .travel-name-text {
     gap: 20px;
-    margin-right: 16%;
+    margin-right: 22%;
 }
 
 .travel-header-title,
@@ -158,11 +158,9 @@
 /* Explore Your Travel section end */
 /* <!-- Popular Tours section start--> */
 .Popular-tours-content {
-
     display: flex;
     margin-top: 5%;
-    width: 1380px;
-
+    width: 1315px;
 }
 
 .tours-title {
@@ -229,6 +227,7 @@
     width: 100%;
     height: 100%;
 }
+
 
 .row {
     display: flex;
@@ -311,3 +310,102 @@
 }
 
 /* Why Choose Us section end */
+/* Deals & Discounts start */
+.tours-titles {
+    margin-top: 1%;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.tours-title-ps {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.Popular-title-li {
+    font-size: 16px;
+    font-weight: 800;
+}
+
+
+
+.bg-img-2 {
+    background-image: url("../Images/Group\ 39.png");
+
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position: center;
+}
+
+.Tour-To-Satorini {
+    background-color: #fff;
+    opacity: 0.8;
+    width: 570px;
+    height: 380px;
+    border-radius: 15px;
+    position: relative;
+    top: 10%;
+    left: 15%;
+    padding: 15px 5px 8px 40px;
+}
+
+.seven-day {
+    display: inline-flex;
+    gap: 20px;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.day {
+    display: flex;
+    gap: 10px;
+    margin-top: 6%;
+}
+
+.color {
+    margin-top: 2.10%;
+}
+
+.book {}
+
+.tour-text {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.deals-p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.price {
+    font-size: 20px;
+    font-weight: 800;
+    color: #ea4e00;
+}
+
+.bg-img-3 {
+    background-image: url("../Images/Group\ 40.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+
+.btn-see-all {
+    text-align: center;
+}
+
+/* Deals & Discounts end */
+/* Perfect Place start */
+.Popular-title-li {
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.watch-img {
+    width: 610px;
+    height: 424;
+}
+
+/* Perfect Place end */
