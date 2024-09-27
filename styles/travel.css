@@ -349,6 +349,18 @@
     padding: 15px 5px 8px 40px;
 }
 
+.Tour-To-Satorini-two {
+    background-color: #fff;
+    opacity: 0.8;
+    width: 570px;
+    height: 380px;
+    border-radius: 15px;
+    position: relative;
+    top: 10%;
+    right: 15%;
+    padding: 15px 5px 8px 40px;
+}
+
 .seven-day {
     display: inline-flex;
     gap: 20px;
