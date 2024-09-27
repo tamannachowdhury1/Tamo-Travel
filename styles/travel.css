@@ -303,6 +303,50 @@
 /* Choose Your Destination section end  */
 
 /* Why Choose Us section start */
+.why-content {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 
+}
+
+.icon-img-1-content {
+    background-color: #fbb46317;
+    border: 1px solid #fbb46342;
+    border-radius: 13px;
+    margin-left: 240px;
+
+    padding: 10px 5px 10px 20px;
+
+}
+
+.icon-img-2-content {
+    background-color: #28cef815;
+    border: 1px solid #28cef82e;
+    border-radius: 13px;
+    margin-right: 240px;
+    padding: 10px 10px 10px 20px;
+}
+
+.icon-img-3-content {
+    background-color: #df37370f;
+    border: 1px solid rgba(255, 0, 0, 0.165);
+    border-radius: 13px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px 8px 10px 20px;
+
+}
+
+.why-text-title-p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #5a5a5def;
+}
+
+.why-text-title {
+    font-size: 24px;
+    font-weight: 800;
+}
 
 /* Why Choose Us section end */
