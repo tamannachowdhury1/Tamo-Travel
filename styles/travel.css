@@ -379,8 +379,6 @@
     margin-top: 2.10%;
 }
 
-.book {}
-
 .tour-text {
     font-size: 24px;
     font-weight: 800;
@@ -453,7 +451,7 @@
 .btn-subscribe {
     border-radius: 8px;
     border: none;
-    width: 393px;
+    width: 410px;
     height: 52px;
     background-color: #ea4e00;
     color: #FFFFFF;
@@ -466,6 +464,30 @@
     background-repeat: no-repeat;
     width: 672px;
     height: 422px;
+    position: relative;
+}
+
+.bg-title {
+    background-color: #FF5400;
+    position: absolute;
+    width: 324px;
+    transform-origin: 247% -460%;
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px;
+    transform: rotate(-25deg);
+}
+
+.tour-text-travel {
+    font-size: 24px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.tour-text-save {
+    font-size: 32px;
+    font-weight: 800;
+    color: #FFFFFF;
 }
 
 /* newslater section end  */
