@@ -491,3 +491,58 @@
 }
 
 /* newslater section end  */
+
+
+/* footer sectiob start */
+
+.ft-content {
+    background-color: #13131813;
+    width: 1440;
+    height: 540px;
+
+
+}
+
+.ft-travel-name-text {
+    display: inline-flex;
+    gap: 10px;
+    align-items: center;
+    position: relative;
+    top: 20%;
+    left: 40%;
+
+}
+
+.icon {
+    display: inline-flex;
+    gap: 20px;
+    align-items: center;
+    position: relative;
+    top: 2%;
+    left: 46%;
+}
+
+.ft-hr {
+    width: 872px;
+    color: #5a5a5d1b;
+    margin-top: 3%;
+}
+
+.ft-title-p {
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: #5A5A5D;
+    margin-top: 5%;
+}
+
+.last {
+    margin-top: 3%;
+
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    color: #13131867;
+}
+
+/* footer sectiob end */
