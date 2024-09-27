@@ -247,11 +247,13 @@
 .img-1 {
     margin-left: 7.06%;
     margin-top: 1%;
+
 }
 
 .img-2 {
     margin-right: 7.06%;
     margin-top: 1%;
+
 }
 
 .img-3 {
@@ -279,4 +281,25 @@
     margin-top: -2.40%;
 }
 
+
+.img-text-primary {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 28px;
+    font-weight: 800;
+}
+
 /* Choose Your Destination section end  */
+
+/* Why Choose Us section start */
+
+
+/* Why Choose Us section end */
