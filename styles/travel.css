@@ -888,15 +888,17 @@
     .newslatter-content {
         display: block;
         margin: 10px 0px;
-        width: 350px;
-        height: 353px;
+        width: 100%;
+        height: 300px;
+
     }
+
 
     .newslatter-title {
         width: 340px;
         padding: 8px;
         margin-top: 5%;
-        margin-left: 5%;
+
     }
 
     .newslatter-he {
@@ -914,19 +916,19 @@
     .bg-img-4 {
         border-radius: 15px;
         width: 350px;
-        margin-left: 5%;
+
     }
 
     .bg-title {
         width: 214px;
         height: 79px;
-        transform-origin: 355% -115%;
+        transform-origin: 364% -102%;
         padding: 5px;
     }
 
     .tour-text-travel {
         font-size: 15px;
-
+        margin-top: 8%;
     }
 
     .tour-text-save {
