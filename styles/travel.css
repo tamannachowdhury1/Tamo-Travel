@@ -893,13 +893,14 @@
     }
 
     .newslatter-title {
-        padding: 15px 30px 15px 25px;
-        margin-left: 2%;
+        width: 340px;
+        padding: 8px;
+        margin-top: 5%;
+        margin-left: 9%;
     }
 
     .newslatter-he {
         width: 300px;
-
     }
 
     .in-style {
@@ -912,8 +913,8 @@
 
     .bg-img-4 {
         border-radius: 15px;
-        width: 355px;
-
+        width: 350px;
+        text-align: center;
     }
 
     .bg-title {
@@ -937,10 +938,8 @@
 
     .ft-content {
         background-color: #13131813;
-        width: 1440;
-        height: 540px;
-
-
+        width: 360px;
+        height: 309px;
     }
 
     .ft-travel-name-text {
