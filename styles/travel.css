@@ -154,7 +154,7 @@
 
 /* Explore Your Travel section end */
 /* <!-- Popular Tours section start--> */
-/* .Popular-tours-content {
+.Popular-tours-content {
     display: flex;
     margin-top: 5%;
     width: 1315px;
@@ -198,7 +198,7 @@
 .Rectangle-4-img {
     width: 540px;
     height: 550px;
-} */
+}
 
 /* <!-- Popular Tours section end--> */
 
@@ -668,4 +668,45 @@
         margin-top: 0%;
     }
 
+    .Popular-tours-content {
+        display: block;
+        margin-top: 15%;
+        width: 350px;
+    }
+
+    .tours-title {
+        font-size: 20px;
+
+    }
+
+    .tours-title-p {
+        font-size: 14px;
+        font-weight: 400;
+        color: #5A5A5D;
+        margin-top: 4%;
+    }
+
+    .tours-title-p br {
+        display: none;
+    }
+
+    .tours-title-li {
+        font-size: 14px;
+        margin-top: 3%;
+        color: #5A5A5D;
+    }
+
+    .tours-title-li br {
+        display: none;
+    }
+
+    .btn-primary-5 {
+        padding: 8px 25px;
+    }
+
+    .Rectangle-4-img {
+        width: 350px;
+        height: 350px;
+
+    }
 }
