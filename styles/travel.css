@@ -203,7 +203,7 @@
 /* <!-- Popular Tours section end--> */
 
 /* Choose Your Destination section start  */
-/* .Destination-content {
+.Destination-content {
     text-align: center;
     margin-top: 5%;
     margin-bottom: 2%;
@@ -255,12 +255,12 @@
     margin-right: 0;
 
 
-} */
+}
 
 /* Choose Your Destination section end  */
 
 /* Why Choose Us section start */
-/* .why-content {
+.why-content {
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -304,11 +304,11 @@
 .why-text-title {
     font-size: 24px;
     font-weight: 800;
-} */
+}
 
 /* Why Choose Us section end */
 /* Deals & Discounts start */
-/* .tours-titles {
+.tours-titles {
     margin-top: 1%;
     font-size: 40px;
     font-weight: 800;
@@ -401,7 +401,7 @@
 
 .btn-see-all {
     text-align: center;
-} */
+}
 
 /* Deals & Discounts end */
 /* Perfect Place start */
@@ -681,7 +681,6 @@
 
     .tours-title-p {
         font-size: 14px;
-        font-weight: 400;
         color: #5A5A5D;
         margin-top: 4%;
     }
@@ -706,7 +705,85 @@
 
     .Rectangle-4-img {
         width: 350px;
-        height: 350px;
+        height: 355px;
 
+    }
+
+    .Destination-content {
+        text-align: center;
+        margin-top: 0%;
+        margin-bottom: 0%;
+    }
+
+    .Destination-title-p {
+        font-size: 14px;
+    }
+
+    .Destination-title-p br {
+        display: none;
+    }
+
+    .img-gllary-content {
+        margin: 0px 0px;
+    }
+
+    .row-img {
+        margin-top: -2%;
+    }
+
+    .row-img-2 {
+        margin-top: -3.50%;
+    }
+
+    .row-img-3 {
+        margin-top: -1.80%;
+    }
+
+    .img {
+        width: 350px;
+        height: 176px;
+    }
+
+    .row {
+        display: block;
+        height: 400px;
+        gap: 5px;
+        margin-top: 0%;
+    }
+
+    .centered {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .why-content {
+        display: block;
+        justify-content: left;
+        gap: 20px;
+    }
+
+    .icon-img-1-content {
+        margin-left: 0px;
+        padding: 10px 5px 10px 20px;
+    }
+
+    .icon-img-2-content {
+        margin-right: 0px;
+        padding: 10px 10px 10px 20px;
+    }
+
+    .icon-img-3-content {
+        margin-left: 0px;
+        margin-right: 0px;
+        padding: 0px 8px 10px 20px;
+
+    }
+
+    .why-text-title-p {
+        font-size: 14px;
+    }
+
+    .why-text-title {
+        font-size: 20px;
     }
 }
