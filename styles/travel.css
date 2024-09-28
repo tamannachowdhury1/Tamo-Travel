@@ -405,7 +405,7 @@
 
 /* Deals & Discounts end */
 /* Perfect Place start */
-/* .Popular-title-li {
+.Popular-title-li {
     font-size: 16px;
     font-weight: 800;
 }
@@ -493,7 +493,7 @@
 
 /* footer sectiob start */
 
-/* .ft-content {
+.ft-content {
     background-color: #13131813;
     width: 1440;
     height: 540px;
@@ -541,7 +541,7 @@
     font-weight: 300;
     text-align: center;
     color: #13131867;
-} */
+}
 
 /* footer sectiob end */
 
@@ -786,4 +786,202 @@
     .why-text-title {
         font-size: 20px;
     }
+
+    .bg-img-2 {
+        width: 350px;
+        border-radius: 15px;
+    }
+
+    .Tour-To-Satorini {
+        width: 303px;
+        height: 297px;
+        top: 35%;
+        left: 0%;
+        padding: 5px 10px 5px 20px;
+    }
+
+    .Tour-To-Satorini-two {
+        width: 303px;
+        height: 297px;
+        top: 35%;
+        right: 0%;
+        padding: 5px 10px 5px 20px;
+    }
+
+    .seven-day {
+        gap: 5px;
+    }
+
+    .day {
+        display: flex;
+        gap: 0px;
+        margin-top: 2%;
+    }
+
+    .color {
+        margin-top: 2.10%;
+    }
+
+    .tour-text {
+        font-size: 20px;
+
+    }
+
+    .deals-p {
+        font-size: 14px;
+
+    }
+
+    .deals-p br {
+
+        display: none;
+    }
+
+    .price {
+        font-size: 16px;
+    }
+
+    .bg-img-3 {
+        width: 350px;
+        border-radius: 15px;
+    }
+
+    .tours-titles {
+
+        font-size: 20px;
+
+    }
+
+    .tours-title-ps {
+        font-size: 14px;
+
+    }
+
+    .tours-title-ps br {
+        display: none;
+    }
+
+    .Popular-title-li {
+        font-size: 14px;
+
+    }
+
+    .Popular-title-li {
+        font-size: 16px;
+        font-weight: 800;
+    }
+
+    .Popular-title-li br {
+        display: none;
+    }
+
+    .watch-img {
+        width: 350px;
+        height: 250px;
+    }
+
+    .centered {
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .newslatter-content {
+        display: block;
+        margin: 10px 0px;
+        width: 350px;
+        height: 353px;
+    }
+
+    .newslatter-title {
+        padding: 15px 30px 15px 25px;
+        margin-left: 2%;
+    }
+
+    .newslatter-he {
+        width: 300px;
+
+    }
+
+    .in-style {
+        width: 288px;
+    }
+
+    .btn-subscribe {
+        width: 300px;
+    }
+
+    .bg-img-4 {
+        border-radius: 15px;
+        width: 355px;
+
+    }
+
+    .bg-title {
+        width: 214px;
+        height: 79px;
+        transform-origin: 355% -115%;
+        padding: 5px;
+    }
+
+    .tour-text-travel {
+        font-size: 15px;
+
+    }
+
+    .tour-text-save {
+        font-size: 21px;
+        margin-top: -2%;
+
+    }
+
+
+    .ft-content {
+        background-color: #13131813;
+        width: 1440;
+        height: 540px;
+
+
+    }
+
+    .ft-travel-name-text {
+        display: inline-flex;
+        gap: 10px;
+        align-items: center;
+        position: relative;
+        top: 20%;
+        left: 40%;
+
+    }
+
+    .icon {
+        display: inline-flex;
+        gap: 20px;
+        align-items: center;
+        position: relative;
+        top: 2%;
+        left: 46%;
+    }
+
+    .ft-hr {
+        width: 872px;
+        color: #5a5a5d1b;
+        margin-top: 3%;
+    }
+
+    .ft-title-p {
+        font-size: 16px;
+        font-weight: 400;
+        text-align: center;
+        color: #5A5A5D;
+        margin-top: 5%;
+    }
+
+    .last {
+        margin-top: 3%;
+        font-size: 16px;
+        font-weight: 300;
+        text-align: center;
+        color: #13131867;
+    }
+
 }
