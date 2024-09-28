@@ -575,12 +575,10 @@
     .explore-container {
         width: 350px;
         height: 483px;
-
         margin-top: 20px;
     }
 
     .explore-title {
-
         padding: 2%;
     }
 
@@ -604,7 +602,7 @@
     }
 
     .btn-title {
-        margin-top: -89%;
+        margin-top: -80%;
     }
 
     .btn-primary-1 {
@@ -672,6 +670,7 @@
         display: block;
         margin-top: 15%;
         width: 350px;
+
     }
 
     .tours-title {
@@ -706,13 +705,14 @@
     .Rectangle-4-img {
         width: 350px;
         height: 355px;
-
+        margin-top: 30px;
     }
 
     .Destination-content {
         text-align: center;
-        margin-top: 0%;
+        margin-top: 3rem;
         margin-bottom: 0%;
+
     }
 
     .Destination-title-p {
@@ -727,17 +727,43 @@
         margin: 0px 0px;
     }
 
-    .row-img {
-        margin-top: -2%;
-    }
-
     .row-img-2 {
-        margin-top: -3.50%;
+        margin-top: -1%;
     }
 
     .row-img-3 {
-        margin-top: -1.80%;
+        margin-top: -6.99%;
     }
+
+    .row-img-4 {
+        margin-top: -0.2%;
+    }
+
+    .row-img-5 {
+        margin-top: -0.5%;
+    }
+
+    .row-img-6 {
+        margin-top: 10.35rem;
+    }
+
+    .row-img-7 {
+        margin-top: -0.5%;
+    }
+
+
+
+    /* .row-img-4 {
+        margin-top: 1rem;
+    }
+
+    .row-img-5 {
+        margin-top: 2rem;
+    }
+
+    .row-img-6 {
+        margin-top: 1.80%;
+    } */
 
     .img {
         width: 350px;
@@ -892,7 +918,6 @@
         height: 300px;
 
     }
-
 
     .newslatter-title {
         width: 340px;
