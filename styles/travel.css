@@ -573,9 +573,9 @@
     }
 
     .explore-container {
-        width: 335px;
+        width: 345px;
         height: 483px;
-        border-radius: 10px;
+
         margin-top: 20px;
     }
 
@@ -599,16 +599,16 @@
     }
 
     .btn-content {
-        width: 287px;
-        height: 288px;
+        width: 288px;
+        height: 290px;
     }
 
     .btn-title {
-        margin-top: -92%;
+        margin-top: -89%;
     }
 
     .btn-primary-1 {
-        padding: 15.50px 100px;
+        padding: 15.50px 90px;
     }
 
     .btn-text-1 {
@@ -617,7 +617,7 @@
     }
 
     .btn-primary-2 {
-        padding: 15.50px 93px;
+        padding: 15.50px 83px;
         margin-left: 0%;
         gap: 25px;
         justify-content: space-around;
@@ -636,25 +636,25 @@
     }
 
     .btn-primary-3 {
-        padding: 15.50px 83px;
+        padding: 15.50px 71px;
         justify-content: space-around;
         gap: 10px;
         margin-left: 0%;
     }
 
     .btn-text-3 {
-        margin-left: -50%;
+        margin-left: -45%;
         margin-top: 0%;
     }
 
     .icon-3 {
         margin-top: 0%;
         margin-left: 0%;
-        margin-right: -32%;
+        margin-right: -29%;
     }
 
     .btn-primary-4 {
-        padding: 15.50px 88px;
+        padding: 15.50px 76px;
         justify-content: space-around;
         gap: 10px;
         margin-left: 0%;
