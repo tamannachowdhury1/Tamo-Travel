@@ -549,7 +549,7 @@
 /* responsive  mbl device */
 @media screen and (max-width: 576px) {
     * {
-        margin: 20px auto 0px;
+        margin: 10px auto 0px;
     }
 
     .nav-container {
@@ -937,50 +937,41 @@
 
 
     .ft-content {
-        background-color: #13131813;
+        margin-top: 120%;
         width: 360px;
         height: 309px;
     }
 
     .ft-travel-name-text {
-        display: inline-flex;
-        gap: 10px;
-        align-items: center;
-        position: relative;
-        top: 20%;
-        left: 40%;
+        top: 0%;
+        left: 9%;
 
     }
 
     .icon {
-        display: inline-flex;
-        gap: 20px;
-        align-items: center;
-        position: relative;
-        top: 2%;
-        left: 46%;
+        top: 1%;
+        left: 33%;
     }
 
     .ft-hr {
-        width: 872px;
-        color: #5a5a5d1b;
-        margin-top: 3%;
+        display: none;
     }
 
     .ft-title-p {
-        font-size: 16px;
-        font-weight: 400;
-        text-align: center;
-        color: #5A5A5D;
-        margin-top: 5%;
+        padding: 10px;
+        font-weight: 300;
+        margin-top: 0%;
+    }
+
+    .ft-title-p br {
+        display: none;
     }
 
     .last {
-        margin-top: 3%;
-        font-size: 16px;
+        margin-top: 7%;
+
         font-weight: 300;
-        text-align: center;
-        color: #13131867;
+
     }
 
 }
