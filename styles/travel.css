@@ -579,8 +579,19 @@
         margin-top: 20px;
     }
 
+    .explore-title {
+
+        padding: 2%;
+    }
+
     .Explore-text {
         font-size: 22px;
+        margin-top: 10%;
+
+    }
+
+    .Explore-text-p {
+        margin-top: 5%;
     }
 
     .Explore-text-p br {
@@ -590,11 +601,10 @@
     .btn-content {
         width: 287px;
         height: 288px;
-        margin-left: -4%;
     }
 
     .btn-title {
-        margin-top: -110%;
+        margin-top: -92%;
     }
 
     .btn-primary-1 {
@@ -626,9 +636,9 @@
     }
 
     .btn-primary-3 {
-        padding: 15.50px 84px;
+        padding: 15.50px 83px;
         justify-content: space-around;
-        gap: 25px;
+        gap: 10px;
         margin-left: 0%;
     }
 
