@@ -1,6 +1,5 @@
 * {
     font-family: "Mulish", sans-serif;
-
     font-weight: 400;
     margin: 10px auto;
 }
@@ -39,7 +38,7 @@
 
 /* nav section end*/
 /* Explore Your Travel section start */
-.explore-container {
+/* .explore-container {
     background-image: linear-gradient(to bottom, rgba(24, 22, 24, 0.89), rgba(136, 136, 136, 0.103)), url('../Images/group-13.png');
     background-repeat: no-repeat;
     width: 1300px;
@@ -153,11 +152,11 @@
 
 .icon-4 {
     margin-top: 6%;
-}
+} */
 
 /* Explore Your Travel section end */
 /* <!-- Popular Tours section start--> */
-.Popular-tours-content {
+/* .Popular-tours-content {
     display: flex;
     margin-top: 5%;
     width: 1315px;
@@ -201,12 +200,12 @@
 .Rectangle-4-img {
     width: 540px;
     height: 550px;
-}
+} */
 
 /* <!-- Popular Tours section end--> */
 
 /* Choose Your Destination section start  */
-.Destination-content {
+/* .Destination-content {
     text-align: center;
     margin-top: 5%;
     margin-bottom: 2%;
@@ -258,12 +257,12 @@
     margin-right: 0;
 
 
-}
+} */
 
 /* Choose Your Destination section end  */
 
 /* Why Choose Us section start */
-.why-content {
+/* .why-content {
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -307,11 +306,11 @@
 .why-text-title {
     font-size: 24px;
     font-weight: 800;
-}
+} */
 
 /* Why Choose Us section end */
 /* Deals & Discounts start */
-.tours-titles {
+/* .tours-titles {
     margin-top: 1%;
     font-size: 40px;
     font-weight: 800;
@@ -404,11 +403,11 @@
 
 .btn-see-all {
     text-align: center;
-}
+} */
 
 /* Deals & Discounts end */
 /* Perfect Place start */
-.Popular-title-li {
+/* .Popular-title-li {
     font-size: 16px;
     font-weight: 800;
 }
@@ -490,12 +489,13 @@
     color: #FFFFFF;
 }
 
+
 /* newslater section end  */
 
 
 /* footer sectiob start */
 
-.ft-content {
+/* .ft-content {
     background-color: #13131813;
     width: 1440;
     height: 540px;
@@ -543,6 +543,28 @@
     font-weight: 300;
     text-align: center;
     color: #13131867;
-}
+} */
 
 /* footer sectiob end */
+
+
+/* responsive  mbl device */
+@media screen and (max-width: 576px) {
+    * {
+        margin: 20px auto 0px;
+    }
+
+    .nav-container {
+        display: block;
+    }
+
+    .travel-name-text {
+        gap: 10px;
+
+    }
+
+    .ul-container {
+        display: block;
+        text-align: center;
+    }
+}
